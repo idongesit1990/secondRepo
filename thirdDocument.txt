@@ -1,0 +1,9 @@
+1.cd(folder name): it means change directory, it takes you to a specific folder e.g cd firstRepo.
+2.pwd: it shows the current directory.
+3.git clone: it clones a repository.
+4.ls: it lists all documents in the folder.
+5.git add: it adds files.
+6.git status: to check if what you've added is there.
+7.git commit -m "type message here": time stamp.
+8.git push: uploads to Repo.
+9.history: lists all the git commands used.
